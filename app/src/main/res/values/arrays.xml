@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="category_name">
+        <item>Образование</item>
+        <item>Транспорт и коммуникации</item>
+        <item>Культура</item>
+        <item>Государственная услуга</item>
+        <item>Туризм и спорт</item>
+        <item>Социальное обеспечение</item>
+        <item>Статистика</item>
+    </array>
+
+    <array name="category_link">
+        <item>https://data.egov.kz/datasets/getdatasetsbycategoryid?categoryId=AVHs80ZbNUjQC95Q0cri</item>
+        <item>https://data.egov.kz/datasets/getdatasetsbycategoryid?categoryId=AVHs9wRnNUjQC95Q0dd2</item>
+        <item>https://data.egov.kz/datasets/getdatasetsbycategoryid?categoryId=AVHs-C8sNUjQC95Q0dwH</item>
+        <item>https://data.egov.kz/datasets/getdatasetsbycategoryid?categoryId=AVS-EI0B99eXTcgzfxyo</item>
+        <item>https://data.egov.kz/datasets/getdatasetsbycategoryid?categoryId=AVHs921rNUjQC95Q0dks</item>
+        <item>https://data.egov.kz/datasets/getdatasetsbycategoryid?categoryId=AVHs9GaxNUjQC95Q0c7i</item>
+        <item>https://data.egov.kz/datasets/getdatasetsbycategoryid?categoryId=AVUFJW8x99eXTcgzf4WV</item>
+    </array>
+    <array name="sort_name">
+        <item>По умолчанию</item>
+        <item>Дате создания (По возрастанию)</item>
+        <item>Дате создания (По убыванию)</item>
+        <item>Дате обновления (По возрастанию)</item>
+        <item>Дате обновления (По убыванию)</item>
+    </array>
+    <array name="sort_value">
+        <item>default</item>
+        <item>createdDateAsc</item>
+        <item>createdDateDesc</item>
+        <item>modifiedDateAsc</item>
+        <item>modifiedDateDesc</item>
+    </array>
+    <array name="entry_name">
+        <item>Русский язык</item>
+        <item>Қазақ тілі</item>
+    </array>
+    <array name="entry_values">
+        <item>ru</item>
+        <item>kk</item>
+    </array>
+</resources>

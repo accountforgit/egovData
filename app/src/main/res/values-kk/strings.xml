@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">EgovData</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Жөндеулер</string>
+    <string name="category">Санат бойынша</string>
+    <string name="education">Білім</string>
+    <string name="trandcom">Көлік және коммуникация</string>
+    <string name="culture">Мәдениет</string>
+    <string name="gov_service">Мемлекеттік көрсетілетін қызметтер</string>
+    <string name="sport">Туризм және спорт</string>
+    <string name="social_help">Әлеуметтік қамсыздандыру</string>
+    <string name="statics">Статистика</string>
+    <string name="contact">Байланыс</string>
+    <string name="language">Деректер тілі</string>
+    <string name="detail_name">Атауы</string>
+    <string name="detail_about">Анықтамасы</string>
+    <string name="detail_owner">Иесі</string>
+    <string name="detail_category">Санаты</string>
+    <string name="detail_add_date">Косылған күні</string>
+    <string name="detail_mod_date">Жанартылған күні</string>
+    <string name="password">Құжат паспорты</string>
+    <string name="offline">Офлайн</string>
+    <string name="title_activity_loaded_file"></string>
+    <string name="fullinfo">Толық ақпарат</string>
+    <string name="cancel">Артқа қайту</string>
+    <string name="loading">Жүктелуде…</string>
+    <string name="empty">Бос дерек</string>
+    <string name="error_loading">Қосылу қателігі</string>
+    <string name="noinfo">Белгісіз</string>
+    <string name="loading_end">Жүктеу аяқталды</string>
+    <string name="cant_load">Жүктеу Сәтсіз аяқталды</string>
+    <string name="are_you_sure_delete">Дерек жойылады?</string>
+    <string name="deleted">Жойылды</string>
+    <string name="nofile">Деректер жоқ</string>
+    <string name="load">Сақтау</string>
+    <string name="look_data">Деректерді көру</string>
+    <string name="loaded_file">Жүктелген деректер</string>
+    <string name="lang">Тіл</string>
+    <string name="yes">Ия</string>
+    <string name="filter">Сүзгілер</string>
+    <string name="gov">Мемлекеттік органдардан</string>
+    <string name="outside">Сыртқы пайдаланушылардан</string>
+    <string name="summ_gov">Мемлекеттік органдардан келген деректер</string>
+    <string name="summ_outside">Сыртқы пайдаланушылардан келген деректер</string>
+    <string name="lang_setting">Интерфейс тілі</string>
+    <string name="search">Іздеу</string>
+    <string name="should">Нұскаулар</string>
+    <string name="should_value">Толық ақпарат алу үшін дерек үстіне басыңыз.\n\n Ыңғайлы болу үшін телефонды көлденен ұстаныз. \n\n Іздеу барлық баған бойынша жүреді. \n\n Баған аттына бассаңыз,сол баған бойынша сортталады.\n\n Екінші рет бассаңыз кері ретпен сортталады.</string>
+    <string name="total">Барлығы</string>
+</resources>

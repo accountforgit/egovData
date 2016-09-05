@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="@string/category">
+        <menu>
+            <group android:checkableBehavior="single" >
+
+                <item
+                    android:icon="@android:drawable/ic_menu_agenda"
+                    android:title="@string/education" />
+                <item
+                    android:icon="@android:drawable/ic_menu_agenda"
+                    android:title="@string/trandcom" />
+                <item
+                    android:icon="@android:drawable/ic_menu_agenda"
+                    android:title="@string/culture" />
+                <item
+                    android:icon="@android:drawable/ic_menu_agenda"
+                    android:title="@string/gov_service" />
+                <item
+                    android:icon="@android:drawable/ic_menu_agenda"
+                    android:title="@string/sport" />
+                <item
+                    android:icon="@android:drawable/ic_menu_agenda"
+                    android:title="@string/social_help" />
+                <item
+                    android:icon="@android:drawable/ic_menu_agenda"
+                    android:title="@string/statics" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/offline" >
+        <menu >
+            <item
+                android:id="@+id/loaded_data"
+                android:icon="@android:drawable/ic_menu_save"
+                android:title="@string/loaded_file" />
+        </menu>
+    </item>
+    <item android:title="@string/contact" >
+        <menu >
+            <item
+                android:id="@+id/nav_call"
+                android:icon="@android:drawable/ic_menu_call"
+                android:title="8 707 949 79 17" />
+            <item
+                android:id="@+id/nav_mail"
+                android:icon="@drawable/ic_menu_send"
+                android:title="shalkarbai.nurzhigit@ce.sdu.edu.kz" />
+        </menu>
+    </item>
+
+</menu>

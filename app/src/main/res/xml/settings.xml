@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/filter">
+        <CheckBoxPreference android:title="@string/gov"
+            android:defaultValue="true"
+            android:summary="@string/summ_gov"
+            android:key="govKey" />
+        <CheckBoxPreference android:title="@string/outside"
+            android:defaultValue="true"
+            android:summary="@string/summ_outside"
+            android:key="outKey"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/lang_setting">
+        <ListPreference android:title="@string/lang"
+            android:entries="@array/entry_name"
+            android:entryValues="@array/entry_values"
+            android:defaultValue="true"
+            android:key="langKey" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

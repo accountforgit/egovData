@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">EgovData</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройка</string>
+    <string name="category">Категория наборов</string>
+    <string name="education">Образование</string>
+    <string name="trandcom">Транспорт и коммуникации</string>
+    <string name="culture">Культура</string>
+    <string name="gov_service">Государственная услуга</string>
+    <string name="sport">Туризм и спорт</string>
+    <string name="social_help">Социальное обеспечение</string>
+    <string name="statics">Статистика</string>
+    <string name="contact">Обратная связь</string>
+    <string name="language">Язык набора данных</string>
+    <string name="detail_name">Название</string>
+    <string name="detail_about">Описание</string>
+    <string name="detail_owner">Владелец</string>
+    <string name="detail_category">Категория</string>
+    <string name="detail_add_date">Дата размещения</string>
+    <string name="detail_mod_date">Дата обновления</string>
+    <string name="password">Паспорт документа</string>
+    <string name="offline">Офлайн</string>
+    <string name="title_activity_loaded_file"> </string>
+    <string name="fullinfo">Детальная информация</string>
+    <string name="cancel">Отмена</string>
+    <string name="loading">Загружается…</string>
+    <string name="empty">Пустой набор</string>
+    <string name="error_loading">Ошибка подключения</string>
+    <string name="noinfo">Не известно</string>
+    <string name="loading_end">Загрузка завершена</string>
+    <string name="cant_load">Не удалось загрузить</string>
+    <string name="are_you_sure_delete">Вы точно хотите удалить?</string>
+    <string name="deleted">Удалено</string>
+    <string name="nofile">Файлов нет</string>
+    <string name="load">Загрузить</string>
+    <string name="look_data">Посмотреть данные</string>
+    <string name="loaded_file">Загруженные данные</string>
+    <string name="lang">Язык</string>
+    <string name="yes">Да</string>
+    <string name="filter">Фильтры</string>
+    <string name="gov">От государственных органов</string>
+    <string name="outside">От внешних пользователей</string>
+    <string name="summ_gov">Наборы от государственных органов</string>
+    <string name="summ_outside">Наборы от внешних пользователей</string>
+    <string name="lang_setting">Язык интерфейса</string>
+    <string name="search">Поиск</string>
+    <string name="should">Советы</string>
+    <string name="should_value">Для полной информации нажмите на элемент.\n\n Для удобства держите экран горизонтально.\n\n Поиск делается по всем полям. \n\n Чтобы сортировать нажмите на название колод. \n\n  Чтобы сортировать в обратном порядке нажмите два раза.</string>
+    <string name="total">Всего</string>
+</resources>
